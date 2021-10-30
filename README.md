@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @WK-EE
-- 👀 I’m interested in data science and machine learning
-- 🌱 I’m currently pursuing my master's in data science at Johns Hopkins University
+- 👋 Hi, I’m Wael
+- 👀 I’m interested in data science, visual analytics, and machine learning
+- 🌱 I’m currently pursuing my master's in Data Science at Johns Hopkins University
 - 💞️ I’m looking to collaborate on innovative data science, ML, or AI projects
 - 📫 How to reach me wael.wka11@gmail.com
 
